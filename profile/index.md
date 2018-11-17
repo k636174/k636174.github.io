@@ -77,6 +77,7 @@ permalink: /profile/
 * 高校生ICT-Conference2015（書記）
 * 高校生ICT-Conference2016（書記）
 * 高校生ICT-Conference2017（書記）
+* 高校生ICT-Conference2018（書記）
 
 ## 外部サイト掲載
 * [奈良県教育委員会メールマガジン平成23年９月１日（木）≪　第　195　号　≫](http://www.pref.nara.jp/kyoikuk/mailmaga/html/230901/1950346.html#yume)
