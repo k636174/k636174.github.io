@@ -1,0 +1,22 @@
+title: カネコってるブログ
+description: >
+  カネコってるブログです
+baseurl: ""
+url: "https://blog.k636174.net/"
+
+author:
+  name: k636174
+  email: shinji@k636174.net
+  github: k636174
+  twitter: k636174
+  facebook: k636174
+
+paginate: 1
+paginate_path: "page:num"
+
+sass:
+  style: compressed
+
+plugins:
+  - jekyll-paginate
+  - jekyll-feed
