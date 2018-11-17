@@ -5,6 +5,8 @@ baseurl: ""
 logo_path: "/assets/images/top_dir/logo.png"
 url: "https://blog.k636174.net/"
 
+include: ['_pages']
+
 author:
   name: k636174
   email: shinji@k636174.net
