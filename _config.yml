@@ -11,7 +11,7 @@ author:
   twitter: k636174
   facebook: k636174
 
-paginate: 1
+paginate: 10
 paginate_path: "page:num"
 
 sass:
