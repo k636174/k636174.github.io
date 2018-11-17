@@ -21,7 +21,18 @@
 <!-- サイト名とナビゲーション部分｡全ページ共通 -->
 <header class="header">
   <div class="container">
-    <div class="site-title"><a href="{{ '/' | relative_url }}">{{ site.title }}</a></div>
+    <div class="site-logo">
+      <div class="site-title">
+        <a href="{{ '/' | relative_url }}">
+      {% if site.logo_path %}
+        <img src="{{ site.logo_path }}" />
+      {% else %}
+        {{ site.title }}
+      {% endif %}
+        </a>
+      </div>
+      <div class="site_description">{{ site.description }}</div>
+    </div>
     <nav class="nav">
       <ul class="nav__list">
         <li class="nav__item"><a href="{{ '/' | relative_url }}">Home</a></li>
