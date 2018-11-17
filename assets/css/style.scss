@@ -5,6 +5,20 @@
 @import 'mixins';
 @import 'extends';
 
+img{
+  width: 80%;
+}
+
+.highlight{
+  pre{
+    background-color: #C0C0C0;
+    border-radius: 3px;
+    border: solid;
+    padding-top: 5px ;
+    padding-bottom: 5px;
+    padding-left: 10px ;
+  }
+}
 
 a{
   color: $font-color-a;
