@@ -24,11 +24,11 @@
     <div class="site-logo">
       <div class="site-title">
         <a href="{{ '/' | relative_url }}">
-      {% if site.logo_path %}
-        <img src="{{ site.logo_path }}" />
-      {% else %}
-        {{ site.title }}
-      {% endif %}
+          {% if site.logo_path %}
+            <img src="{{ site.logo_path }}" />
+          {% else %}
+            {{ site.title }}
+          {% endif %}
         </a>
       </div>
       <div class="site_description">{{ site.description }}</div>
@@ -36,6 +36,7 @@
     <nav class="nav">
       <ul class="nav__list">
         <li class="nav__item"><a href="{{ '/' | relative_url }}">Home</a></li>
+        <li class="nav__item"><a href="{{ '/private_infra/' | relative_url }}">プライベートなインフラ</a></li>
         <li class="nav__item"><a href="{{ '/profile/' | relative_url }}">About</a></li>
       </ul>
     </nav>
