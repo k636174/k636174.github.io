@@ -31,25 +31,43 @@ permalink: /profile/
 * QML
 * Perl
 
-## 【 扱えるソフトウェア 】
+## 【 扱えるソフトウェア 】OS関係
 * Mac
 * Linux(Debian系、CentOS6)
 * Windows Server 2003
 * Windows Server 2008(R2)
 * Windows Server 2012(R2)
-* Microsoft Office Word,Excel,PowerPoint,Access
-* Adobe Illustrator
-* Adobe Premiere
-* Shade
+
+## 【扱えるソフトウェア】仮想基盤
+* KVM
+* VMware ESXi
+* OracleVM 6,7
+
+## 【扱えるソフトウェア】ネットワーク関係
+* VyOS
+* SophosXG,SG
+* IX2015
+
+## 【扱えるソフトウェア】ミドルウェア
 * Apache
+* Nginx
 * MySQL
 * Asterisk
 * ProFTPD
 * BIND(DNSのやつ)
-* KVM
-* VMware ESXi
 * Zabbix
-* VyOS
+
+## 【扱えるソフトウェア】自動化関係
+* Travis CI
+* Ansible
+
+## 【扱えるソフトウェア】一般的なやつ
+* Microsoft Office Word,Excel,PowerPoint,Access
+* Adobe Illustrator
+* Adobe Premiere
+* Shade
+* Git
+* SVN
 
 ## 【 持ってる資格 】
 * 品質管理検定４級
