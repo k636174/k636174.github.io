@@ -14,6 +14,11 @@
   <meta name="viewport" content="width=device-width">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
   {% feed_meta %}
+
+  <!-- highlight.js -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/8.6/styles/default.min.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/8.6/highlight.min.js"></script>
+
 </head>
 
 <body>
@@ -73,6 +78,8 @@
 
 <!-- アクセス解析用img -->
 <script src="/analyze.js"/>
+<!-- highlight js  -->
+<script>hljs.initHighlightingOnLoad();</script>
 
 </body>
 </html>
