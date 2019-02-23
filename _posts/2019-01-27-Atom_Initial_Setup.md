@@ -5,6 +5,7 @@ date: 2019-01-27 16:26
 permalink: /atom_initial_setup
 tags:
 - Atom
+- 開発環境
 ---
 
 ## Atomインストールしたら個人的に入れたプラグイン
