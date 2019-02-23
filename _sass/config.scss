@@ -1,6 +1,67 @@
+
+
+// こちらがカラム設定用Mixin
+@mixin col(
+    $column-count,
+    $column-margin  : margin(),
+    $selector       : '.archive',
+    $is-flex        : true
+) {
+
+    // is Flex (default)
+    @if $is-flex == true {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+
+        $margin-size : #{$column-margin * ($column-count - 1)};
+
+        #{$selector} {
+          @media (min-width: 700px) {
+            width: calc((100% - #{$margin-size}) / #{$column-count});
+            @content;
+          }
+        }
+    } // end Flex
+
+    // not Flex
+    @else {
+        @include clearfix;
+        margin-left : #{-$column-margin};
+        $margin-size : #{$column-margin * $column-count};
+
+        #{$selector} {
+            float: left;
+            margin-right: -.1px;    // 小数点以下の切り捨て・切り上げ解釈違いに対応
+            margin-left:#{$column-margin};
+            width: calc((100% - #{$margin-size}) / #{$column-count});
+            @content;
+        }
+    } // end if not Flex
+}
+
+
+
+
+
 $border: 1px solid #ccc;
 $color-main: rgb(37, 111, 153);
-$container-width: 800px;
+$container-width: 1200px;
 $font-color: #333;
 $font-color-a: rgb(47, 135, 167);
 $font-color-a-hover: lighten($font-color-a, 15%);
+
+
+.post_container {
+    margin-right: auto;
+    margin-left: auto;
+    max-width: $container-width;
+}
+
+.post_container {
+    @include col(4,30px,'.post_item') {
+      border-color: black;
+      border-bottom-style: dotted;
+      height: 400px;
+    }
+}

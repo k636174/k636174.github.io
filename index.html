@@ -4,13 +4,21 @@ layout: default
 
 <div class="contents front-page">
   <div class="container">
-    {% for post in paginator.posts limit:5 %}
-      <article class="archive">
-        <h2 class="archive__title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
-        <p class="archive__date"><time>{{ post.date | date: '%B %d, %Y' }}</time></p>
-        <div class="archive__excerpt">{{ post.excerpt }}</div>
-      </article>
-    {% endfor %}
+    <div class="post_container">
+      {% for post in paginator.posts limit:24 %}
+        <article class="post_item">
+          {% if post.image %}
+            <img src="{{ post.image }}"/>
+          {% elsif post.excerpt contains "images" %}
+            {{ post.excerpt }}
+          {% else %}
+            <img src="https://blog.k636174.net/wp-content/themes/hummingbird/library/images/noimg.png">
+          {% endif %}
+          <h2 class="archive__title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+          <p class="archive__date"><time>{{ post.date | date: '%B %d, %Y' }}</time></p>
+        </article>
+      {% endfor %}
+    </div>
 
     <!-- ページネーション -->
     {% if paginator.total_pages > 1 %}
