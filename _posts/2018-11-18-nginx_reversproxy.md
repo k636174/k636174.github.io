@@ -2,11 +2,14 @@
 layout: post
 title: "ブログ用nginxの設定ファイル達"
 date: 2018-11-17 21:55
+published: false
 tags:
 - コマンド
 - Linux
 permalink: /blog_nginx
 ---
+
+
 
 ```
 root@blog:~# uname -a
