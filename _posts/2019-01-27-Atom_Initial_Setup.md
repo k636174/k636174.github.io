@@ -11,5 +11,9 @@ tags:
 ## Atomインストールしたら個人的に入れたプラグイン
 CLIから下記コマンドを実行
 ```
-$ atom install markdown-table-formatter
+$ apm install markdown-table-formatter
+$ apm install color-picker
+$ apm install japanese-menu
+$ apm install minimap
+$ apm install opened-files
 ```
