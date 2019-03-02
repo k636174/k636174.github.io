@@ -8,13 +8,11 @@ title: Tag
   <div class="container">
 
     <div class="page__header">
-      <h1 class="page__title">{{ page.title }}</h1>
-      <p class="page__description">{{ page.description }}</p>
+      <h1 class="page__title">タグ '<span class="tag-name"></span>' の記事一覧</h1>
     </div>
 
     <div class="page__body">
-
-      <h1>タグ '<span class="tag-name"></span>' の記事一覧</h1>
+      
       {% for tag in site.tags %}
       <div class="tag tag-{{ tag[0] }}">
         <ul>
