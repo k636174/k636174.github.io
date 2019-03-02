@@ -13,6 +13,9 @@
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
   <meta name="viewport" content="width=device-width">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
+
+  <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+
   {% feed_meta %}
 
   <!-- Global site tag (gtag.js) - Google Analytics -->
