@@ -13,9 +13,7 @@ layout: default
       <div
         class="post-tags">
         {% for tag in tags %}
-          <a href="{{ site.baseurl }}/tag#{{ tag | slugize }}">
-            {{ tag }}
-          </a>
+          <a href="{{ site.baseurl }}/tag#{{ tag | slugize }}">{{ tag }}</a> /
         {% endfor %}
       </div>
     </div>
