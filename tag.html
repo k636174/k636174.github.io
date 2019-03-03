@@ -12,12 +12,12 @@ title: Tag
     </div>
 
     <div class="page__body">
-      
+
       {% for tag in site.tags %}
       <div class="tag tag-{{ tag[0] }}">
         <ul>
           {% for post in tag[1] %}
-          <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }} {{tag[0]}}</a></li>
+          <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
           {% endfor %}
         </ul>
       </div>
