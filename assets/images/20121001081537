@@ -1,0 +1,297 @@
+
+
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+
+
+<title>個別「20121001081537」の写真、画像 - YAPC2011 - K-636174's fotolife</title>
+
+<link rel="stylesheet" href="/css/fotolife.css?20180928" type="text/css" media="all" />
+
+
+
+<meta name="viewport" content="width=320; initial-scale=1.0; user-scalable=1;" />
+
+
+<script type="text/javascript">
+<!--
+var SMARTPHONE_SUPPORT = true;
+if (SMARTPHONE_SUPPORT && /iPod;|iPhone;|Android /.test(navigator.userAgent)) {
+  document.write('<link rel="stylesheet" href="/css/smartphone.css?20160908" type="text/css" media="all" />');
+}
+
+if (typeof Hatena == 'undefined') Hatena = {};
+if (typeof Hatena.Fotolife == 'undefined') Hatena.Fotolife = {};
+
+Hatena.Fotolife.AuthUrl = 'http://f.hatena.ne.jp/K-636174/20121001081537';
+
+// -->
+</script>
+
+<script type="text/javascript" src="http://s.hatena.ne.jp/js/HatenaStar.js"></script>
+<script type="text/javascript"><!--
+  Hatena.Author  = new Hatena.User('K-636174');
+--></script>
+
+<script type="text/javascript" src="/js/togglemore.js"></script>
+<script type="text/javascript" src="/js/Hatena/Fotolife/FollowEdit.js"></script>
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-M45RQN"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>
+<!--
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-M45RQN');
+// -->
+</script>
+<!-- End Google Tag Manager -->
+
+
+<!--
+<rdf:RDF
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/">
+<rdf:Description rdf:about="http://f.hatena.ne.jp/K-636174/">
+   <foaf:maker rdf:parseType="Resource">
+     <foaf:holdsAccount>
+       <foaf:OnlineAccount foaf:accountName="K-636174">
+         <foaf:accountServiceHomepage rdf:resource="http://www.hatena.ne.jp/" />
+       </foaf:OnlineAccount>
+     </foaf:holdsAccount>
+   </foaf:maker>
+</rdf:Description>
+</rdf:RDF>
+-->
+
+<script type="text/javascript">
+<!--
+
+if (typeof Hatena == 'undefined') Hatena = {};
+if (typeof Hatena.Fotolife == 'undefined') Hatena.Fotolife = {};
+
+Hatena.Star.EntryLoader.addEventListener('load',
+    function() {
+        var entries = Hatena.Star.EntryLoader.entries;
+        for (var i = 0; i < entries.length; i++) {
+            var e = entries[i];
+            new Ten.Observer(e.addButton, 'onclick', function() {Hatena.Fotolife.addFavorite(e)});
+        }
+    }
+);
+
+Hatena.Star.SiteConfig = {
+    entryNodes: {
+        'div.foto': {
+            uri: 'window.location',
+            title: 'img.foto',
+            container: 'div.star-container'
+        }
+    }
+};
+
+Hatena.Fotolife.addFavorite = function(e) {
+
+};
+
+
+if (!(/iPod;|iPhone;|Android /.test(navigator.userAgent))) {
+  document.write('<script type="text/javascript" src="/js/foto_pager_thumb.js"></script'+'>');
+}
+// -->
+</script>
+<script type="text/javascript" src="/js/swfobject.js"></script>
+<script type="text/javascript" src="/js/foto_url.js?20180410"></script>
+<script type="text/javascript" src="/js/auth_url.js"></script>
+<link rel="alternate" media="handheld" href="http://f.hatena.ne.jp/mobile/K-636174/" />
+<style type="text/css">body {
+  min-width:965px;
+}
+</style>
+
+
+<script src="https://cdn.pool.st-hatena.com/valve/valve.js" async></script>
+<script>
+  valve = window.valve || [];
+  valve.push(function(v) {
+    v.config({
+      service: 'fotolife',
+      bypass: false,
+    });
+    v.defineFluidSlot({
+      insId: 'upper-foto-ad',
+      googleAdClient: 'ca-pub-4438296558807254',
+      googleAdSlot: '2440799867',
+    });
+
+    
+      v.defineDFPSlot({
+          unit: '/4374287/f_sp_e_1_3025_0_no',
+          slotId: 'pc-under-foto-ad-left',
+          sizes: [[300,250]],
+      });
+      v.defineDFPSlot({
+          unit: '/4374287/f_sp_e_1_3025_0_no',
+          slotId: 'pc-under-foto-ad-right',
+          sizes: [[300,250]],
+      });
+    
+    v.sealDFPSlots();
+  });
+</script>
+<script id="valve-dmp" data-service="fotolife" src="https://cdn.pool.st-hatena.com/valve/dmp.js" async></script>
+
+
+</head>
+<body id="hatena-fotolife-foto">
+<script type="text/javascript" src="http://cdn.www.st-hatena.com/js/header.ja.js" charset="utf-8"></script>
+<link type="text/css" rel="stylesheet" href="http://cdn.www.st-hatena.com/css/hatena/header.css">
+<div id="header" class="guest"><div id="header-body"><a href="/" class="service-logo-container"><img src="/images/logo-hatena.gif" alt="Hatena" /><img src="/images/logo-fotolife.gif" alt="Fotolife" /></a><ul class="service-menu"><li><a href="https://www.hatena.ne.jp/register?location=http%3A%2F%2Ff.hatena.ne.jp%2F">ユーザー登録</a></li><li><a href="https://www.hatena.ne.jp/login?location=http%3A%2F%2Ff.hatena.ne.jp%2F">ログイン</a></li><li><a href="/help">ヘルプ</a></li><li class="global-logo"><a href="http://www.hatena.ne.jp/"><img src="http://cdn.www.st-hatena.com/images/header/global-logo-wh.png" alt="Hatena"></a></li></ul></div></div>
+
+<div id="container">
+<div id="navigation">
+<div id="breadcrumbs">
+  <a href="/">Fotolife</a>  <span>&gt;</span>    <a href="/K-636174/"><img src="http://www.st-hatena.com/users/K-/K-636174/profile_s.gif" class="profile-image" alt="K-636174" title="K-636174" width="16" height="16">K-636174's fotolife</a>    <span>&gt;</span>      <a href="/K-636174/YAPC2011/"><img src="/images/folder.gif" alt="folder" />YAPC2011</a>    <span>&gt;</span><input type="text" size="45" value="f:id:K-636174:20121001081537j:image" onclick="this.select()" /><a href="/K-636174/20121001081537?mode=kml"><img src="/images/kml.gif" width="29" height="12" alt="KML" class="kml" /></a></div>
+
+<div class="appendix">
+<a href="/slideshow/K-636174/YAPC2011/rss#/K-636174/20121001081537"><img src="/images/slideshow.gif" alt="スライドショー" />スライドショー</a>
+</div>
+
+</div>
+
+  <div class="foto">
+
+
+    <div id="pager-next" class="pager-next">
+      <a href="/K-636174/20120930214010">next&gt;</a>
+      <div class="pager-thumbs" style="display:none;">
+
+        <a href="/K-636174/20120930214010"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/K/K-636174/20120930/20120930214010_m.jpg" alt="20120930214010" title="20120930214010" /></a>
+
+        <a href="/K-636174/20120930134654"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/K/K-636174/20120930/20120930134654_m.jpg" alt="20120930134654" title="20120930134654" /></a>
+
+        <a href="/K-636174/20120930125733"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/K/K-636174/20120930/20120930125733_m.jpg" alt="20120930125733" title="20120930125733" /></a>
+
+        <a href="/K-636174/20120930124623"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/K/K-636174/20120930/20120930124623_m.jpg" alt="20120930124623" title="20120930124623" /></a>
+
+        <a href="/K-636174/20120930124249"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/K/K-636174/20120930/20120930124249_m.jpg" alt="20120930124249" title="20120930124249" /></a>
+
+        <div class="pager-thumbs-more">
+          <a href="#"><img src="/images/pager-more.gif" class="pager-thumbs-more" alt="サムネールをもっと見る" /></a>
+        </div>
+      </div>
+    </div>
+
+
+
+    <div id="pager-prev" class="pager-prev">
+      <a href="/K-636174/20121002085834">&lt;prev</a>
+      <div class="pager-thumbs" style="display:none;">
+
+        <a href="/K-636174/20121002085834"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/K/K-636174/20121002/20121002085834_m.jpg" alt="20121002085834" title="20121002085834" /></a>
+
+        <a href="/K-636174/20121002085835"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/K/K-636174/20121002/20121002085835_m.jpg" alt="20121002085835" title="20121002085835" /></a>
+
+        <a href="/K-636174/20121002085848"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/K/K-636174/20121002/20121002085848_m.jpg" alt="20121002085848" title="20121002085848" /></a>
+
+        <a href="/K-636174/20121002085849"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/K/K-636174/20121002/20121002085849_m.jpg" alt="20121002085849" title="20121002085849" /></a>
+
+        <a href="/K-636174/20121002091433"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/K/K-636174/20121002/20121002091433_m.jpg" alt="20121002091433" title="20121002091433" /></a>
+
+        <div class="pager-thumbs-more">
+          <a href="#"><img src="/images/pager-more.gif" class="pager-thumbs-more" alt="サムネールをもっと見る" /></a>
+        </div>
+      </div>
+    </div>
+
+
+
+
+    
+      
+      <div class="section permalink-ad-top">
+                <ins class="adsbygoogle" id="upper-foto-ad" data-ad-format="auto" style="display:block; margin: 0 auto; max-width: 728px;"></ins>
+      </div>
+    
+
+    <div id="foto-body" name="foto-body" class="foto-body" style="width:800px;">
+
+
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/K/K-636174/20121001/20121001081537.jpg" alt="20121001081537" title="20121001081537" width="800" height="600" class="foto" style="" />
+
+
+<div id="foto-for-html-tag" style="display:none;">
+    <img id="foto-for-html-tag-20121001081537" src="https://cdn-ak.f.st-hatena.com/images/fotolife/K/K-636174/20121001/20121001081537.jpg" style="display:none;" class="jpg" alt="20121001081537" title="20121001081537" />
+</div>
+
+      <div class="fotoinfo">
+        <div class="fototitle"></div>
+        <div class="fotoinfo-detail"><a href="/date/20121001">20121001</a></div>
+  
+        <div class="fotoinfo-detail"><a href="/model/iPhone 4S">iPhone 4S</a></div>
+  
+        <div class="fotoinfo-detail"><a href="/focallength/4.30">4.30mm</a> f/2.40
+        </div>
+        <div class="fotoinfo-detail"><a href="/fotocolor/kw"><span class="colorblock"><img src="/images/color_k.gif" width="16" height="8" alt="color_k" /> <img src="/images/color_w.gif" width="16" height="8" alt="color_w" /></span></a></div>
+<div class="fotoinfo-detail license"><img src="/images/icon-cc-by-sa.gif" alt="" title="" /> <a href="/license/by-sa">表示-継承</a></div>
+
+
+
+        <div class="fotoinfo-detail">
+          <div class="star-container"></div>
+        </div>
+
+<div class="edit">
+
+</div>
+
+
+
+
+      </div>
+
+
+    </div>
+
+
+  
+
+  
+  <div class="double-rectangle">
+    <div id="pc-under-foto-ad-left"></div>
+    <div id="pc-under-foto-ad-right" class="double-rectangle-right"></div>
+  </div>
+  
+
+  
+  </div>
+
+  <div class="trackback">
+    <div class="trackbacktitle">Trackback - http://f.hatena.ne.jp/K-636174/20121001081537</div>
+    <ul class="trackbacklist">
+        <li><a href="http://d.hatena.ne.jp/K-636174/20121002" title="K-636174の日記 - PHPerだけど、YAPCに行ってきた" target="_blank">K-636174の日記 - PHPerだけど、YAPCに行ってきた</a></li>
+    </ul><p class=violation><a href="http://www.hatena.ne.jp/faq/report/fotolife?target_url=http%3A%2F%2Ff.hatena.ne.jp%2FK-636174%2F20121001081537&amp;location=http%3A%2F%2Ff.hatena.ne.jp%2FK-636174%2F20121001081537&amp;target_label=f%3Aid%3AK-636174%3A20121001081537j%3Aimage">規約違反を通報する</a>
+
+    <p class="footer-anchor">
+      <a href="http://f.hatena.ne.jp/" target="_blank">はてなフォトライフ</a>
+      &nbsp;&#047;&nbsp;
+      <a href="http://f.hatena.ne.jp/guide" target="_blank">はじめての方へ</a>
+      &nbsp;&#047;&nbsp;
+      <a href="http://hatenablog.com/" target="_blank">はてなブログ</a>
+    </p>
+
+  </div>
+
+</div>
+
+
+
+
+
+</body>
+</html>
