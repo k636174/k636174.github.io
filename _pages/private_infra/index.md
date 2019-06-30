@@ -14,3 +14,13 @@ permalink: /private_infra/
 ## レンタルサーバ
 
 ## その他良く使う便利なサービス
+
+## よく使うやつ
+* [phpMyadmin](https://myadmin.k636174.net/){:target="_blank"}
+  * さくらレンタルサーバ上のDB
+  * 個人サーバのDB
+* [Nextcloud](https://drive.k636174.net/){:target="_blank"}
+* [Rainloop](https://webmail.k636174.net/){:target="_blank"}
+* [SophosXG(NOCIX)](https://nocix-dc.myfirewall.co/){:target="_blank"}
+* [MoneyForward Reporter](https://mfr.k636174.net/){:target="_blank"}
+* [SSH Attack Reporter](https://sar.k636174.net/){:target="_blank"}
