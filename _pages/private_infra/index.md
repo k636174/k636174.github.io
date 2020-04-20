@@ -21,3 +21,4 @@ permalink: /private_infra/
 * [SophosXG(NOCIX)](https://nocix-dc.myfirewall.co/){:target="_blank"}
 * [Redmine](http://redmine.k636174.net/){:target="_blank"}
 * [Grafana](http://grafana.k636174.net/){:target="_blank"}
+* [Zabbix](htto://zabbix.k636174.net/){:target="_blank"}
