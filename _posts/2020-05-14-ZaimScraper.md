@@ -10,7 +10,7 @@
     - 家計簿
     - Python
     - MariaDB
-    #image: /assets/images/mac_python3.png
+    image: /assets/images/20200514_container_overview.png
 ---
 
 ## 概要
