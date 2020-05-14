@@ -34,4 +34,4 @@
 ## 外部サイトリンク
  * [Grafana]{:target="_blank"}
 
-[Grafana]:https://grafana.com{:target="_blank"}
+[Grafana]:https://grafana.com/
