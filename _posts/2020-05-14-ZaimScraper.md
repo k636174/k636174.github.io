@@ -10,10 +10,11 @@
     - 家計簿
     - Python
     - MariaDB
-    image: /assets/images/20200514_container_overview.png
+    image: /assets/images/20200514_thumbnail.jp2
 ---
 
 ## 概要
+![thumbnail](/assets/images/20200514_thumbnail.jp2 "thumbnail")
 普段、Zaimのプレミアムプラン使って家計簿つけてます。  
 
 ただ、年金ネットや確定拠出年金などは資産から除外したかったり、この口座は資産扱いしない。。。などなど色々自分好みの家計分析をしたかったので、これまではCSVを定期的に手動でダウンロードしてエクセルでグラフ化したりしてました。  
@@ -31,8 +32,5 @@
 ![概要図](/assets/images/20200514_container_overview.png "概要図")
 ※ 今回はZaimへ余計な負荷を掛けない為に、ホストOS側からコンテナ内のスクリプトを手動で起動する方針にしました。
 
-
-## 外部サイトリンク
- * [Grafana]{:target="_blank"}
-
-[Grafana]:https://grafana.com/
+## Todo
+ * 気が向いたらスクリプトとか、docker-compose.ymlを追記する。
