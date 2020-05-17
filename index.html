@@ -7,15 +7,16 @@ layout: default
     <div class="post_container">
       {% for post in paginator.posts limit:24 %}
         <article class="post_item">
+          <p class="archive__date"><time>{{ post.date | date: "%Y-%m-%d" }}</time></p>
           {% if post.image %}
             <img src="{{ post.image }}"/>
           {% elsif post.excerpt contains "images" %}
-            {{ post.excerpt }}
+            <!--<img src="https://blog.k636174.net/wp-content/themes/hummingbird/library/images/noimg.png">-->
+            {{ post.excerpt | remove: '<p>' | remove: '</p>' }}
           {% else %}
             <img src="https://blog.k636174.net/wp-content/themes/hummingbird/library/images/noimg.png">
           {% endif %}
           <h2 class="archive__title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
-          <p class="archive__date"><time>{{ post.date | date: "%Y-%m-%d" }}</time></p>
         </article>
       {% endfor %}
 
