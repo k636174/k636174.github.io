@@ -60,7 +60,7 @@ $font-color-a-hover: lighten($font-color-a, 15%);
 
 .post_container {
     @include col(4,30px,'.post_item') {
-      border-color: black;
+
       height: 400px;
     }
 }
