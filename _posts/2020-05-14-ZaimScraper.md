@@ -10,11 +10,11 @@
     - 家計簿
     - Python
     - MariaDB
-    image: /assets/images/20200514_thumbnail.jp2
+    image: /assets/images/20200514_thumbnail.png
 ---
 
 ## 概要
-![thumbnail](/assets/images/20200514_thumbnail.jp2 "thumbnail")
+![thumbnail](/assets/images/20200514_thumbnail.png "thumbnail")
 普段、Zaimのプレミアムプラン使って家計簿つけてます。  
 
 ただ、年金ネットや確定拠出年金などは資産から除外したかったり、この口座は資産扱いしない。。。などなど色々自分好みの家計分析をしたかったので、これまではCSVを定期的に手動でダウンロードしてエクセルでグラフ化したりしてました。  
