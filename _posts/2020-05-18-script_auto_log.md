@@ -3,7 +3,7 @@
     title: "scriptコマンドでTerminalでの作業ログを残す"
     date: 2020-05-18 08:34
     comments: true
-    categories:
+    tags:
     - Shell
     - Bashrc
     - Zshrc
