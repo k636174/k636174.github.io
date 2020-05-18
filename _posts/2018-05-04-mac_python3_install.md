@@ -1,10 +1,11 @@
 ---
-layout: post
-title: Python3をMacにインストール
-permalink: /mac_python3_install
-tags:
-- プログラミング
-- Python3
+    layout: post
+    title: Python3をMacにインストール
+    permalink: /mac_python3_install
+    tags:
+    - プログラミング
+    - Python3
+    image: /assets/images/mac_python3.png
 ---
 
 ![top_img](/assets/images/mac_python3.png)
