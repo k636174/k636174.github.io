@@ -16,9 +16,6 @@
 
   <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
 
-  <!-- アクセス解析用 -->
-  <script src="https://k636174.sakura.ne.jp/githubio_analyze/"></script>
-
   {% feed_meta %}
 
   <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -95,6 +92,14 @@
 </footer>
 <!-- highlight js  -->
 <script>hljs.initHighlightingOnLoad();</script>
+
+<!-- アクセス解析用 -->
+<script>
+  const encoded = encodeURI(location.href);
+  var script = document.createElement('script');
+  script.src = "https://k636174.sakura.ne.jp/githubio_analyze/index.php?now_url=" + encoded;
+  document.getElementsByTagName('head')[0].appendChild(script);
+</script>
 
 </body>
 </html>
