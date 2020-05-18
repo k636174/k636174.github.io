@@ -1,6 +1,8 @@
 title: カネコってるブログ
 description: >
-  【まだ工事中】技術備忘録／日記／雑多な感じのブログです。
+  技術備忘録／日記／雑多な感じのブログです。<br/>
+  本ブログは情報の所属する組織の見解／知見ではなく個人の見解／知見であり、正確性や合法性や安全性を保証するものではありません。
+
 baseurl: ""
 logo_path: "/assets/images/top_dir/logo.png"
 url: "https://blog.k636174.net/"
