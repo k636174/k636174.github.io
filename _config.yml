@@ -16,7 +16,7 @@ author:
   twitter: k636174
   facebook: k636174
 
-paginate: 23
+paginate: 19
 paginate_path: "page:num"
 
 sass:
@@ -25,4 +25,4 @@ sass:
 plugins:
   - jekyll-paginate
   - jekyll-feed
-#  - jekyll-sitemap
+  - jekyll-sitemap
