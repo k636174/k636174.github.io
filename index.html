@@ -14,7 +14,7 @@ layout: default
             <!--<img src="https://blog.k636174.net/wp-content/themes/hummingbird/library/images/noimg.png">-->
             {{ post.excerpt | remove: '<p>' | remove: '</p>' }}
           {% else %}
-            <img src="https://blog.k636174.net/wp-content/themes/hummingbird/library/images/noimg.png">
+            <img src="/assets/images/noimg.png">
           {% endif %}
           <h2 class="archive__title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
         </article>
