@@ -32,6 +32,17 @@ body{
   color: $font-color;
 }
 
+/* 広告用 */
+#a8_rbr{
+  text-align: center;
+  margin: 20px 0px;
+  img{
+    width: auto;
+    height: auto;
+  }
+}
+
+
 /* ページ内のヘッダータグ調整 */
 .page__body > h2{
   font-size:0.925rem;
@@ -108,7 +119,7 @@ p{
 }
 
 .front-page{
-  @include pad();
+  //@include pad();
 }
 
 .nav{
