@@ -36,8 +36,9 @@ body{
 #a8_rbr{
   text-align: center;
   margin: 20px 0px;
-  img{
-    width: auto;
+  a > img{
+    max-width: 468px;
+    width: 100%;
     height: auto;
   }
 }
@@ -83,6 +84,7 @@ body{
     }
   }
 }
+
 .post_item {
   margin : 0 auto;
   img {
@@ -91,6 +93,16 @@ body{
     object-fit: cover;
   }
 }
+
+.Ad_item {
+  text-align:center;
+  img {
+    width: 300px;
+    height: 190px;
+    object-fit: cover;
+  }
+}
+
 
 
 p{
