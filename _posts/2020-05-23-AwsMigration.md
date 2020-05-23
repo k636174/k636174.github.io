@@ -2,7 +2,7 @@
     layout: post
     title: "オンプレで構築した家計簿分析基盤をAWSに移行する（Part0. キックオフ)"
     date: 2020-05-23
-    permalink: /aws_migration_par0
+    permalink: /aws_migration_part0
     tags:
     - クラウド
     - AWS
