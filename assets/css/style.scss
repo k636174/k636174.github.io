@@ -58,12 +58,46 @@ body{
   }
 }
 
+.page__body > h3{
+  font-size:0.825rem;
+  padding: 0.25em 0.5em;
+  color: #494949;
+  background: transparent;
+  border-left: solid 5px #7db4e6;
+  border-bottom: solid 3px #d7d7d7;
+
+  @include breakpoint(){
+    font-size:1.325rem;
+  }
+}
+
 .contents.page{
   margin : 0 auto;
+  line-height:1.5em;
   @include breakpoint(){
     width: 860px;
   }
 }
+
+/* 記事内のTableタグ */
+.page__body {
+  table{
+    //margin: 0 auto;
+    border-collapse: collapse;
+    border-spacing: 0;
+  }
+
+  table th,table td{
+    padding: 3px 25px;
+    text-align: left;
+  }
+
+  table tr:nth-child(even){
+    background-color: #eee
+  }
+}
+
+
 
 /* 投稿一覧ページ */
 .front-page{
