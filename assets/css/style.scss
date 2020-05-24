@@ -79,6 +79,10 @@ body{
   }
 }
 
+.page__header > h1{
+  line-height:1em;
+}
+
 /* 記事内のTableタグ */
 .page__body {
   table{

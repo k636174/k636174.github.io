@@ -17,7 +17,7 @@
         $margin-size : #{$column-margin * ($column-count - 1)};
 
         #{$selector} {
-          @media (min-width: 700px) {
+          @media (min-width: 1300px) {
             width: calc((100% - #{$margin-size}) / #{$column-count});
             @content;
           }
